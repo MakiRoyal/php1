@@ -1,0 +1,20 @@
+{
+    "name": "mikaramanantsoa/eval1",
+    "autoload": {
+        "psr-4": {
+            "Mikaramanantsoa\\Eval1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MakiRoyal",
+            "email": "mika.ramanantsoa@epitech.digital"
+        }
+    ],
+    "require": {
+        "slim/slim": "4.*",
+        "slim/psr7": "^1.6",
+        "selective/basepath": "^2.1",
+        "slim/http": "^1.3"
+    }
+}
